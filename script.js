@@ -19,7 +19,6 @@ const weather = async(city) => {
 	try {
 		const response = await fetch(url, options);
 		const result = await response.json();
-		console.log(result);
 		temp.innerHTML = result.temp;
 		actual.innerHTML = result.feels_like;
 		minTemp.innerHTML = result.min_temp;
