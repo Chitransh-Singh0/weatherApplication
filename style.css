@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-image: url(./assets/images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+#title{
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+}
+#navbar{
+    backdrop-filter: blur(20px);
+}
+#weather-info {
+    list-style: none;
+}
+#jumbotron{
+    background: transparent;
+    backdrop-filter: blur(2px);
+}
+#box1{
+    background: transparent;
+    color: black;
+    backdrop-filter: blur(3px);
+}
+#box2{
+    background: transparent;
+    color: black;
+    backdrop-filter: blur(3px);
+}
+#box3{
+    background: transparent;
+    color: black;
+    backdrop-filter: blur(3px);
+}
+
