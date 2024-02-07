@@ -14,6 +14,11 @@ body{
     font-family: 'Poppins', sans-serif;
     color: whitesmoke;
 }
+#title2{
+    font-family: 'Poppins', sans-serif;
+    font-weight:bolder;
+    letter-spacing: 2px;
+}
 #navbar{
     backdrop-filter: blur(20px);
 }
@@ -28,15 +33,18 @@ body{
     background: transparent;
     color: black;
     backdrop-filter: blur(3px);
+    box-shadow: rgba(0, 0, 0, 0.6) 0px 22px 70px 4px;
 }
 #box2{
     background: transparent;
     color: black;
     backdrop-filter: blur(3px);
+    box-shadow: rgba(0, 0, 0, 0.6) 0px 22px 70px 4px;
 }
 #box3{
     background: transparent;
     color: black;
     backdrop-filter: blur(3px);
+    box-shadow: rgba(0, 0, 0, 0.6) 0px 22px 70px 4px;
 }
 
